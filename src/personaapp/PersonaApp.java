@@ -8,6 +8,7 @@ public class PersonaApp {
 
     public static void main(String[] args) {
         
+        //Este cambio en el main lo fusionare con el de experimento
         PersonaService ps = new PersonaService();
         ArrayList<Integer> contadorIMC = new ArrayList();
         ArrayList<Boolean> contadorMayorDeEdad = new ArrayList();
